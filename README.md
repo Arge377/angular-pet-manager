@@ -16,3 +16,10 @@ some things I use:
 * Reactivate Forms.
 * Lazy loading.
 * Angular Material.
+
+Some things I needed to finish:
+* Various validations.
+* Show errors in validations.
+* Validate Future Date of Birth.
+* Add in the navbar the tooltip for the section under construction.
+* Hide navbar on login.

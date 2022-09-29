@@ -1,4 +1,4 @@
-# angular-pet-manager
+# Angular Pet Manager
 
 Necessary to run the project:
 * Download it

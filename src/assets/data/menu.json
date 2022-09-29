@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Pets",
+        "redirect": "/pets",
+        "active": true
+    },
+    {
+        "name": "Trainers",
+        "redirect": "/resports",
+        "active": false
+    }
+]
